@@ -2,8 +2,8 @@
   "name": "Habits Streak",
   "short_name": "Habits Streak",
   "description": "A simple habit tracking app to build streaks and stay consistent.",
-  "start_url": "https://habits-streak-app.vercel.app/",
-  "scope": "https://habits-streak-app.vercel.app/",
+  "start_url": "/",
+  "scope": "/",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
@@ -25,4 +25,5 @@
     }
   ]
 }
+
 
