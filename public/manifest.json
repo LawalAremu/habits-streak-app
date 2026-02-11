@@ -9,7 +9,8 @@
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
   "id": "/",
-  "icons": [
+"categories": ["productivity", "lifestyle"],  
+"icons": [
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
