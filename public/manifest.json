@@ -8,7 +8,7 @@
   "orientation": "portrait",
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
-  "id": "/",
+  "id": "com.abpublisher.habitsstreak",
   "categories": ["productivity", "lifestyle"],  
 
   "icons": [
@@ -44,3 +44,4 @@
     }
   ]
 }
+
