@@ -1,6 +1,6 @@
 {
-  "name": "Habits Streak Simple",
-  "short_name": "Habits",
+  "name": "Habits Streak",
+  "short_name": "Habits Streak",
   "description": "A simple habit tracking app to build streaks and stay consistent.",
   "start_url": "/",
   "scope": "/",
@@ -9,8 +9,8 @@
   "background_color": "#ffffff",
   "theme_color": "#4f46e5",
   "id": "/",
-"categories": ["productivity", "lifestyle"],  
-"icons": [
+  "categories": ["productivity", "lifestyle"],  
+  "icons": [
     {
       "src": "/icon-192.png",
       "sizes": "192x192",
