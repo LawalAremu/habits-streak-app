@@ -10,6 +10,7 @@
   "theme_color": "#4f46e5",
   "id": "/",
   "categories": ["productivity", "lifestyle"],  
+
   "icons": [
     {
       "src": "/icon-192.png",
@@ -23,7 +24,23 @@
       "type": "image/png",
       "purpose": "any maskable"
     }
+  ],
+
+  "screenshots": [
+    {
+      "src": "/screenshot1.png",
+      "sizes": "540x1218",
+      "type": "image/png"
+    },
+    {
+      "src": "/screenshot2.png",
+      "sizes": "540x1218",
+      "type": "image/png"
+    },
+    {
+      "src": "/screenshot3.png",
+      "sizes": "540x1218",
+      "type": "image/png"
+    }
   ]
 }
-
-
